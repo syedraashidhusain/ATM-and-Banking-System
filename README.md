@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040457
+# Name: syed Raashid Husain M
+# Date:28-10-2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -47,6 +48,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="1196" height="731" alt="image" src="https://github.com/user-attachments/assets/cfd94e7c-3a93-4021-a7f0-04390537576e" />
 
 
 
@@ -67,6 +69,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1020" height="720" alt="image" src="https://github.com/user-attachments/assets/28a6da38-ccb3-422a-b5f8-088d9743ec57" />
 
 
 
@@ -76,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="797" height="667" alt="image" src="https://github.com/user-attachments/assets/5ddee626-3fbc-4a2b-8576-2ec68c359178" />
 
 
 
@@ -89,6 +93,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="795" height="547" alt="image" src="https://github.com/user-attachments/assets/f86df4dd-bc5b-423c-8e4f-75f4cbe51912" />
 
 
 
@@ -105,6 +110,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="690" height="801" alt="image" src="https://github.com/user-attachments/assets/07d7aa20-4c53-4ff2-95e4-976f1188bf80" />
 
 
 
@@ -128,6 +134,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="925" height="607" alt="image" src="https://github.com/user-attachments/assets/99fcbbb9-2ceb-404d-afd4-45ddeb4b7381" />
 
 
 
