@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212225040458
-# Name:s syed suhaib
+# Reg No:212225040457
+# Name: Syed Raashid husain M
 # Date:28-10-2026
 
 
